@@ -1,0 +1,58 @@
+<div class="skype-head"><hr/><img src="https://i.imgur.com/s68cw9I.png" alt="wash-blue"><img src="https://i.imgur.com/66GMfaI.png" alt="church"><img src="https://i.imgur.com/sktSAep.png" alt="caboose"><img src="https://i.imgur.com/zaOREey.png" alt="tucker"><img src="https://i.imgur.com/JHQYumV.png" alt="grif"><img src="https://i.imgur.com/gxY6pLJ.png" alt="simmons"><img src="https://i.imgur.com/ANc5oDR.png" alt="sarge"><img src="https://i.imgur.com/NCvaKOl.png" alt="donut"><img src="https://i.imgur.com/MXj9Kgg.png" alt="doc"><hr/>[16:17]</div><p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">This is where you copy-paste your own text!</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "sarge">Sarge</span>
+<div class = "msg">Roughly in this format!</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "tucker">Tucker</span>
+<div class = "msg">You can</div>
+<div class = "msg">Put messages back to back like this too</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "grif">Grif</span>
+<div class = "msg">code's frail though, so if something breaks, check for typos</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "simmons">Simmons</span>
+<div class = "msg">Or DM the creator, she'll help you</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "donut">Donut</span>
+<div class = "msg">As best she can, at least</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "doc">Doc</span>
+<div class = "msg">Also, make sure there are three blank lines at the end</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Church</span>
+<div class = "msg">Then copy-paste this into the template doc and double check by opening the html file in a browser</div>
+<div class = "msg">Once that's working, you can move it to ao3</div>
+</div>
+</p>
+

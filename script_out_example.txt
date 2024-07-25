@@ -1,0 +1,323 @@
+<div class="skype-head"><hr/><img src="https://i.imgur.com/s68cw9I.png" alt="wash-blue"><img src="https://i.imgur.com/sktSAep.png" alt="caboose"><hr/>[16:17]</div><p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Caboose, I haven't seen you for a couple hours now.</div>
+<div class = "msg">Where are you?</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">hi agent wash a tub</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">We really should try to fix your speech-to-text one of these days.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">church can fix it.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">I mean, so can I?</div>
+<div class = "msg">Probably.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">well yes but church is a computer so he can fix the program faster</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">It’s not like we’re short on time.</div>
+<div class = "msg">Simmons is good at programming, I’m sure he’ll help.</div>
+<div class = "msg">Provided he’s not busy with the movie night thing.</div>
+</div>
+</p>
+
+<div class="skype-head"><hr/>[16:20]</div><p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Caboose?</div>
+<div class = "msg">Is this about Church?</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">he hasnt come back yet</div>
+<div class = "msg">and he snot on radio</div>
+<div class = "msg">i keep checking but i just get hissing</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Well, he’s probably not in range. Our helmet receivers don’t get much out here.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">does that mean hes really far away</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Not necessarily.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">but what if the rescue comes back before he doze</div>
+<div class = "msg">we cant leave him</div>
+<div class = "msg">he is very small he could get loss very easily</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">He’s with Carolina, she’s keeping a good eye on him.</div>
+<div class = "msg">And we won’t leave either of them behind.</div>
+<div class = "msg">I promise.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">but when will they be back</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">I</div>
+<div class = "msg">don’t know.</div>
+<div class = "msg">But we’ll be here when they are, okay?</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">what if something happened</div>
+<div class = "msg">sarge said there was bad guys</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Sarge was exaggerating.</div>
+<div class = "msg">We haven’t run into anyone yet.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">but only tucker is running</div>
+<div class = "msg">tucker and church and carol line uh</div>
+<div class = "msg">but they ran farther than tucker</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Yeah, well, running was Carolina’s thing back in Freelancer.</div>
+<div class = "msg">But she always came back.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">but why wood they run for so long</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Maybe they found something cool.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">then why wouldnt they come back to show us</div>
+<div class = "msg">i always show church the cool things i fine</div>
+<div class = "msg">is he going on another free lancer adventure without us</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">I promise they’re not going on a Freelancer adventure without us.</div>
+<div class = "msg">Carolina knows better than that.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">yeah there last one didnt go too good be four we got there</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Right.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">but church and carolina are very very strong and fast and smart so why would they still begone</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">I don’t know.</div>
+<div class = "msg">There’s probably a lot of jungle to check out.</div>
+<div class = "msg">They should be back soon.</div>
+<div class = "msg">Or, we'll get rescued first, and we can go look for them.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">and we won’t leave them behind.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">And we won’t leave them behind.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">promise</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Promise.</div>
+<div class = "msg">Now, where are you?</div>
+<div class = "msg">The Reds are having a movie night.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">will it be air buddies</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">No, they’re planning on watching the Hunger Games.</div>
+<div class = "msg">But I’ll vote for Air Buddies for the next one.</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">can it be the santa one</div>
+<div class = "msg">i like santa movies</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Sure!</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">okay</div>
+<div class = "msg">ill watch the hungry games</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Glad to hear it! So where are you?</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">i was looking for church</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Do you know where you were looking for Church?</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "caboose">Caboose</span>
+<div class = "msg">no</div>
+</div>
+</p>
+
+<p>
+<div class = "speaker">
+<span class = "church">Wash</span>
+<div class = "msg">Alright. One sec.</div>
+</div>
+</p>
+

@@ -1,0 +1,203 @@
+/*workskin css. copy paste this into the workskin on ao3, then apply to your work*/
+
+body{
+	background-color: #333333;	
+
+}
+
+
+.skype{
+	background-color: #080404;
+	font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", "sans-serif";
+	line-height: 200%;
+	padding: 10px;
+	color: white;
+}
+
+.speaker{
+	margin-bottom: 0px;
+}
+
+.msg{
+	background-color: #302c34;
+	border-radius: 10px;
+	padding: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	line-height: 100%;
+	width: fit-content;
+	max-width: 80%;	
+	color: white;
+}
+
+.msg img{
+	align-content: center;
+	width: 70vw;
+	max-width: 70vw;
+	border-radius: 5px;
+}
+
+.skype p {
+	padding: 0px;
+	margin: 0px;
+	margin-top:10px;
+}
+
+.speaker p {
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+.msg p {
+	padding: 0px;
+	margin: 0px;
+}
+
+.skype-head{
+	width: 95%;
+	background-color:#080404;
+	color:white;
+	text-align: center;
+	font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", "sans-serif";
+	font-weight: bold;
+	padding: 10px;
+}
+
+.skype-head img{
+	width: 5%;
+	min-width: 25px;
+}
+.skype-head br{
+	display:none;
+	padding: 0px;
+	margin: 0px;
+}
+.skype-head p{
+	padding: 0px;
+	margin: 0px;
+}
+
+.cover-img img{
+	margin-left: 25%;
+	max-width:50%;
+	max-height:50%;
+	width:50%;
+}
+
+.cover-img{
+	
+	text-align: center;
+}
+
+
+.tucker{
+	font-weight: bold;
+	color: aquamarine;
+}
+
+.church{
+	font-weight: bold;
+	color: deepskyblue; 
+}
+
+.wash{
+	font-weight: bold;
+	color: lightgray;
+}
+
+.caboose{
+	font-weight: bold;
+	color: royalblue;
+}
+
+.carolina{
+	font-weight: bold;
+	color: palegreen;
+}
+
+
+.donut{
+	font-weight: bold;
+	color: hotpink;
+}
+
+.sarge{
+	font-weight: bold;
+	color: crimson;
+}
+
+.simmons{
+	font-weight: bold;
+	color: indianred;
+}
+
+.lopez{
+	font-weight: bold;
+	color: chocolate;
+}
+
+.grif{
+	font-weight: bold;
+	color: darkorange;
+}
+
+
+.grey{
+	font-weight: bold;
+	color: mediumpurple;
+}
+
+.doc{
+	font-weight: bold;
+	color: blueviolet;
+}
+
+.felix{
+	font-weight: bold;
+	color: orangered;
+}
+
+
+.epsilon{
+	font-weight: bold;
+	color: DeepSkyBlue
+}
+
+.gamma{
+	font-weight: bold;
+	color: lightblue;
+}
+
+.theta{
+	font-weight: bold;
+	color: magenta;
+}
+
+.delta{
+	font-weight: bold;
+	color: limegreen;
+}
+
+.sigma{
+	font-weight: bold;
+	color: orangered;
+}
+
+.omega{
+	font-weight: bold;
+	color: darkorchid;
+}
+
+.iota{
+	font-weight: bold;
+	color: yellow;
+}
+
+.eta{
+	font-weight: bold;
+	color: powderblue;
+}
