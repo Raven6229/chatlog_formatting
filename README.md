@@ -22,9 +22,14 @@ i recommend turning it into an html file and checking it in your browser first b
 i included four files:
 an example input, an example output, a blank html doc you can copy-paste into to test the code before uploading, and an example html
 
+skin.css must be copy-pasted into an AO3 workskin to work!!!
+
 skin.css is what you'll want to edit if you want to add your own colors and usernames. follow the format used there. 
+
 the name of the class must match the name being used in the txt file (not case sensitive)
+
 the code is very prone to breaking if there are mistakes. make sure the text file has three blank lines at the end
+
 Wash specifically is a special case, where the code manually uses epsilon's color. if you want to use his color, you can edit the python file around line 97.
     this is also how you make names that don't match the skin.css class name (like having wash use the epsilon color)
 
