@@ -12,7 +12,7 @@ def parseScript(cwd: str, script_name: str) -> list:
         script_name (str): The filename of the script to parse, excluding path and file format
     """
     logger = logging.getLogger("converter.parser")
-    logger.info(f"Parsing script {script_name}")
+    logger.info(f"Parsing script '{script_name}'")
     parsed_script = []
 
     with open(cwd + f"/input/{script_name}.txt", "r") as file:
@@ -58,7 +58,7 @@ def parseScript(cwd: str, script_name: str) -> list:
 
                 logger.debug(f"UNKNOWN AUTHOR: {line}")
 
-    logger.info(f"Script {script_name} parsed.")
+    logger.info(f"Script '{script_name}' parsed.")
     return parsed_script
 
 
@@ -109,7 +109,7 @@ def generateHTML(cwd: str, config: dict, script_name: str, script: list[dict]) -
         script (list[dict]): The parsed script in the form of a dictionary.
     """
     logger = logging.getLogger("converter.generate")
-    logger.info(f"Generating Output File")
+    logger.info(f"Generating '{script_name}' Output File")
 
     timestamp_output = ""
     header_output = []
@@ -154,9 +154,10 @@ def generateHTML(cwd: str, config: dict, script_name: str, script: list[dict]) -
 
     with open(cwd + f"/output/{script_name}.html", "w") as f:
         f.write(htmlSetup(cwd=cwd, title=script_name))
-        logger.debug(f"{len(script_output)} / {len(header_output)}")
         for count in range(len(script_output)):
             if header_output[count]:
                 f.write(icons(config=config, authors=header_output[count]))
             f.write(script_output[count])
         f.write(htmlEnd())
+
+    logger.info(f"'{script_name}' Output file generated.")
