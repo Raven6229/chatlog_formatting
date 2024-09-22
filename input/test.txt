@@ -1,23 +1,32 @@
-[16:17]-[Wash Church Caboose Tucker Grif Simmons Sarge Donut Doc]
+[16:17]
 
-Android9: "Yo Brother" lmao haha 'xd' :-12S!{}[]() that stuff happened at "[01:23:03 am]" like who formats like that just say 1:23 am like a normal person lmao
-Church: This is where you copy-paste your own text! 
-But what if I do this
-[12:123] and then this\n\r
+Wash: This is where you copy-paste your own text! 
 
-[08:17 pm]-[Wash Church Caboose Tucker Grif Simmons Sarge Donut Doc]
+Sarge: Roughly in this format!
 
-Tucker: This is where you copy-paste your own text! 
-But what if I do this
+Tucker: You can
+Tucker: Put messages back to back like this too
 
-[06:23:53 am]-[Wash Church Caboose Tucker Grif Simmons Sarge Donut Doc]
+Grif: code's frail though, so if something breaks, check for typos
 
-Grif: This is where you copy-paste your own text! 
-But what if I do this!
+Simmons: Or DM the creator, she'll help you
 
-[12:10 pm]
-Stuff
+Donut: As best she can, at least
 
-[10:08:23]
-[10:08:25]
-Simmons: Test
+Doc: Also, make sure there are three blank lines at the end
+
+Church: Then copy-paste this into the template doc and double check by opening the html file in a browser
+Church: Once that's working, you can move it to ao3
+
+[8:17pm]
+Android9: Here are some more usecase examples
+Although some of them might be useless.
+
+[13:09:23]
+New Guy: Just a Guy
+
+[10:10:10 am]
+
+[12:34:56 PM]
+yoo would you look at the ratio of the game, it was like
+[12:123], crazy stuff!

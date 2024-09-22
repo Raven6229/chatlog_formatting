@@ -17,5 +17,3 @@ Doc: Also, make sure there are three blank lines at the end
 
 Church: Then copy-paste this into the template doc and double check by opening the html file in a browser
 Church: Once that's working, you can move it to ao3
-
-
