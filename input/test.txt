@@ -1,0 +1,15 @@
+[16:17]
+
+Wash: This is where you copy-paste your own text! 
+
+Sarge: Roughly in this format!
+
+Tucker: You can
+Tucker: Put messages back to back like this too
+
+Grif: code's frail though, so if something breaks, check for typos
+
+Or DM the creator, she'll help you
+
+Church: Then copy-paste this into the template doc and double check by opening the html file in a browser
+Church: Once that's working, you can move it to ao3

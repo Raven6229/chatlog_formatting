@@ -1,0 +1,60 @@
+#!/usr/bin/env python
+import json
+
+# Setup program logging
+import logging
+import os
+import sys
+
+import python_files
+
+logging.basicConfig(
+    level="INFO",
+    format="CHATLOG_FORMATTING - %(asctime)s - %(name)s - %(module)s - %(levelname)s - %(message)s",
+)
+logger = logging.getLogger("bin")
+
+cwd = os.getcwd()
+logger.debug(f"CWD: {cwd}")
+
+config_location = os.getenv(
+    f"CHATLOG_FORMATTING_CONFIG_LOCATION", default=cwd + "/config/config.json"
+)
+input_location = os.getenv(f"CHATLOG_FORMATTING_INPUT_LOCATION", default=cwd + "/input")
+
+# Ensure the program has files to run on
+scripts_for_formatting = []
+if not os.listdir(input_location):
+    logger.fatal(
+        f"No input files detected. Please place scripts to format in the local '/input' folder."
+    )
+    sys.exit(1)
+else:
+    for file in os.listdir(input_location):
+        if file.endswith(".txt"):
+            scripts_for_formatting.append(file[:-4])
+
+if len(scripts_for_formatting) == 0:
+    logger.fatal(
+        f"No valid input files detected. Please ensure provided scripts are in the .txt format"
+    )
+    sys.exit(1)
+
+try:
+    with open(config_location, "r") as config_file:
+        try:
+            config = json.load(config_file)
+        except BaseException as err:
+            logger.fatal(
+                f"Invalid config file - ensure valid JSON format. Error: {str(err)}"
+            )
+            sys.exit(1)
+
+except BaseException as err:
+    logger.fatal(f"Invalid config location. Error: {str(err)}")
+    sys.exit(1)
+
+if __name__ == "__main__":
+    python_files.run(
+        cwd=cwd, config=config, scripts_for_formatting=scripts_for_formatting
+    )
