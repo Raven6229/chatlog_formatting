@@ -1,0 +1,18 @@
+{
+    "icons": {
+        "caboose": {"image": "https://i.imgur.com/sktSAep.png", "alt": "caboose"},
+        "wash": {"image": "https://i.imgur.com/s68cw9I.png", "alt": "wash-blue"},
+        "washington": {"image": "https://i.imgur.com/s68cw9I.png", "alt": "wash-blue"},
+        "tucker": {"image": "https://i.imgur.com/zaOREey.png", "alt": "tucker"},
+        "sarge": {"image": "https://i.imgur.com/ANc5oDR.png", "alt": "sarge"},
+        "simmons": {"image": "https://i.imgur.com/gxY6pLJ.png", "alt": "simmons"},
+        "grif": {"image": "https://i.imgur.com/JHQYumV.png", "alt": "grif"},
+        "carolina": {"image": "https://i.imgur.com/xnaK8OT.png", "alt": "carolina"},
+        "church": {"image": "https://i.imgur.com/66GMfaI.png", "alt": "church"},
+        "epsilon": {"image": "https://i.imgur.com/66GMfaI.png", "alt": "church"},
+        "doc": {"image": "https://i.imgur.com/MXj9Kgg.png", "alt": "doc"},
+        "dufresne": {"image": "https://i.imgur.com/MXj9Kgg.png", "alt": "doc"},
+        "donut": {"image": "https://i.imgur.com/NCvaKOl.png", "alt": "donut"},
+        "android9": {"image": "https://i.imgur.com/e41Dkld.png", "alt": "android9"}
+    }
+}

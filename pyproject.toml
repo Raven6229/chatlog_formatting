@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools >= 74.0.0"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "chatlog_formatting"
+version = "0.0.0"
+dynamic = ["dependencies"]
+authors = [
+    { name = "Raven6229"},
+]
+description = ""
+requires-python = ">=3.12"
+classifiers = [
+    "Programming Language :: Python :: 3.12",
+    "Operating System :: OS Independent"
+]
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+[tool.isort]
+profile = "black"
+skip = ["setup.py"]
+[tool.black]
+force-exclude = "(setup.py|venv)"
+[tool.setuptools.packages]
+find = {}
